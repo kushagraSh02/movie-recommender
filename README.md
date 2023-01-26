@@ -15,11 +15,3 @@ The cosine_simliarity matrix is a numpy array with calculated cosine similarity 
 
 We use streamlit library to create a web application for our recommender system.
 
-Required Libraries:
-1. Numpy
-2. Pandas
-3. ast
-4. scikit-learn
-5. pickle
-6. Streamlit
-7. Requests
