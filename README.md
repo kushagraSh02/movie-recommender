@@ -21,3 +21,5 @@ Required Libraries:
 3. ast
 4. scikit-learn
 5. pickle
+6. Streamlit
+7. Requests
